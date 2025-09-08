@@ -1,39 +1,47 @@
-# 🚀 Task Manager Project
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Background" width="100%" style="border-radius: 12px; opacity: 0.8"/>
+</p>
 
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-green)]()
+<h1 align="center">Task Manager</h1>
+<p align="center">Organize your tasks efficiently with a clean, modern UI inspired by Google’s design language.</p>
+
+<p align="center">
+  <a href="#" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=appveyor" alt="Launch Project"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Overview
-**Task Manager** is a sleek, modern app to help you organize, track, and complete tasks efficiently. Designed for productivity lovers who want simplicity without sacrificing power.
-
----
-
-## 🔥 Features
-- Add, edit, and delete tasks
+## 🌟 Features
+- Clean and minimalistic UI
+- Add, edit, delete tasks easily
 - Mark tasks as complete/incomplete
 - Filter tasks by status
-- Responsive design for desktop & mobile
-- Clean and modern UI
+- Mobile responsive
 
 ---
 
 ## 📸 Screenshots
-![App Screenshot]()  
-![App Screenshot]()
+<p align="center">
+  <img src="./docs/screenshot1.png" width="300"/>
+  <img src="./docs/screenshot2.png" width="300"/>
+</p>
 
 ---
 
-## 🚀 Launch Project
-Click the big button below to **launch the app** locally:
+## 🛠 Tech Stack
+- JavaScript (Vanilla)
+- HTML5 & CSS3
+- Node.js (optional backend)
+- Git & GitHub
 
-[![Launch Project](https://img.shields.io/badge/Launch-App-red?style=for-the-badge&logo=appveyor)](#)  
+---
 
-> Or run locally:
+## 📄 License
+All Rights Reserved. You need explicit permission to use or contribute.
 
-```bash
-git clone https://github.com/YourUsername/task-manager.git
-cd task-manager
-npm install
-npm start
+---
+
+## 🤝 Contributing
+All PRs must be approved by **Taimour**.
