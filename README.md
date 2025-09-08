@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Background" width="100%" style="border-radius: 12px; opacity: 0.8"/>
-</p>
-
 <h1 align="center">Task Manager</h1>
 <p align="center">Organize your tasks efficiently with a clean, modern UI inspired by Google’s design language.</p>
 
