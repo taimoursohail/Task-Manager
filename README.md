@@ -1,5 +1,5 @@
 <h1 align="center">Task Manager</h1>
-<p align="center">Organize your tasks efficiently with a clean, modern UI inspired by Google’s design language.</p>
+<p align="center">Organize your tasks efficiently with a clean, modern UI inspired by Google’s design.</p>
 
 <p align="center">
   <a href="#" style="text-decoration:none">
@@ -12,8 +12,6 @@
 ## 🌟 Features
 - Clean and minimalistic UI
 - Add, edit, delete tasks easily
-- Mark tasks as complete/incomplete
-- Filter tasks by status
 - Mobile responsive
 
 ---
