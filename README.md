@@ -18,8 +18,7 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./docs/screenshot1.png" width="300"/>
-  <img src="./docs/screenshot2.png" width="300"/>
+  <img src="./docs/screenshot1.jpg" width="300"/>
 </p>
 
 ---
@@ -27,8 +26,6 @@
 ## 🛠 Tech Stack
 - JavaScript (Vanilla)
 - HTML5 & CSS3
-- Node.js (optional backend)
-- Git & GitHub
 
 ---
 
@@ -38,4 +35,4 @@ All Rights Reserved. You need explicit permission to use or contribute.
 ---
 
 ## 🤝 Contributing
-All PRs must be approved by **Taimour**.
+All PRs must be approved by **Taimour S.**.
